@@ -1,0 +1,8 @@
+node_modules/
+.tmp/
+.uploads/
+tg-bot-relay-cf/
+*.log
+.env
+.dev.vars
+.wrangler/
